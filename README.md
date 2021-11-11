@@ -11,6 +11,6 @@ After that a standard colour map is applied.
 
 If you use this work please cite the following work:
 
-`Chitin and chitosan remodeling defines vegetative development and Trichoderma biocontrol. Kappel, L., Münsterkötter, M., Sipos, G., Escobar Rodriguez, C.,  and S. Gruber. PLOS Pathogens. accepted 15.01.2020, in press`
+[Kappel, Lisa, Martin Münsterkötter, György Sipos, Carolina Escobar Rodriguez, and Sabine Gruber. "Chitin and chitosan remodeling defines vegetative development and Trichoderma biocontrol." PLoS pathogens 16, no. 2 (2020): e1008320.](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008320)
 
 
